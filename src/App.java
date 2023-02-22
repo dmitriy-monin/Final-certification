@@ -101,6 +101,7 @@ public class App {
     }
 
 
+
     public static void learning(){
         System.out.println("Введите id животного, которое Вы хотите обучать");
         Scanner scanner = new Scanner(System.in);
